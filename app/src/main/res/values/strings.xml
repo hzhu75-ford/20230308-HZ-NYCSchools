@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">20230301-HZ-NYCSchools</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="schools">New York City High Schools</string>
+    <string name="generic_error">Please check your network connection or there is problem in our end, please try again later.</string>
+    <string name="record_not_found">We are unable to process your request at this time, please try again later.</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="school_details">High School Details</string>
+    <string name="sat_test_takers">Number of SAT Test Takers :</string>
+    <string name="sat_avg_math_score">Average SAT Math Score :</string>
+    <string name="sat_avg_reading_score">Average SAT Critical Reading Score :</string>
+    <string name="sat_writing_score">Average SAT Writing Score :</string>
+    <string name="share_success_text">Share</string>
+</resources>

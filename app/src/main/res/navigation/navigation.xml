@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/schoolsFragment">
+
+    <fragment
+        android:id="@+id/schoolsFragment"
+        android:name="com.example.a20230301_hz_nycschools.ui.SchoolsFragment"
+        android:label="New York City High Schools"
+        tools:layout="@layout/fragment_schools" />
+</navigation>
